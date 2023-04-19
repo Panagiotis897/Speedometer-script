@@ -8,4 +8,4 @@ DO NOT ADJUST ANYTHING IN FXMANIFEST.LUA FILE. IN THAT CASE THE SCRIPT WONT WORK
 
 PLEASE DO NOT UPLOAD THE SCRIPT ANYWHERE ELSE WITHOT MY PERMISSION. 
 
-======================THANKS==================================
+======================THANKS================================
