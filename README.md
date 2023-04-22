@@ -6,6 +6,8 @@ if your gear meter is not properly aligned with the speedometer, you can adjust 
 
 DO NOT ADJUST THE CODE IN FXMANIFEST.LUA FILE. IN THAT CASE THE SCRIPT WONT WORK PROPERLY.
 
-PLEASE DO NOT UPLOAD THE SCRIPT ANYWHERE ELSE WITHOT MY PERMISSION. 
+PLEASE DO NOT UPLOAD THE SCRIPT ANYWHERE ELSE WITHOUT MY PERMISSION.
 
-======================THANKS================================
+ALSO DO NOT CLAIM ITS YOURS!!!
+
+=====================THANKS=================================
