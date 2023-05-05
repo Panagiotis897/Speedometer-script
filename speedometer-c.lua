@@ -15,7 +15,7 @@ Citizen.CreateThread(function()
         local gear = GetVehicleCurrentGear(GetVehiclePedIsIn(GetPlayerPed(-1), false))
         local rpm = GetVehicleCurrentRpm(GetVehiclePedIsIn(GetPlayerPed(-1), false))
         if(IsPedInAnyVehicle(GetPlayerPed(-1), false)) then
-            text(" KMH " .. math.floor(speed), 0.78, 0.8)
+            text("KMH " .. math.floor(speed), 0.78, 0.8)
             text("Fuel " .. math.floor(fuel), 0.8, 0.70)
             text("Gear " .. gear, 0.03, 0.6)
             text("RPM " .. math.floor(rpm * 8000), 0.02, 0.7)
